@@ -1,6 +1,6 @@
 import os
 import datetime
 
-for item in range(1,5):
-    print(item)
 
+for item in range(1,10):
+    print (item)
